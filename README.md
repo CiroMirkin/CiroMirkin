@@ -10,8 +10,8 @@
 - 📫 Contacto: **ciromirkin@gmail.com**
 
 <br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CiroMirkin) <br/>
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CiroMirkin) 
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CiroMirkin) <br/>
+[Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CiroMirkin) 
 
 <h3 align="left">💻 Stack tecnológico:</h3>
 
