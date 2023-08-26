@@ -1,17 +1,17 @@
 <h1 aling="left">Soy Ciro 👋</h1>
 <h3 align="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
 
-- 🔭 Mi último proyecto es [Kan-Ban](https://cm-kanban.netlify.app/).
+- 🔭 Mi último proyecto es [Kan-Ban](https://github.com/CiroMirkin/Kan-Ban).
 
 - 👨‍💻 Todos mis proyectos están en [https://ciromirkin.github.io/Portfolio/](https://ciromirkin.github.io/Portfolio/)
 
-- 📝 Regularmente escribo artículos en [https://medium.com/@ciromirkin/](https://medium.com/@ciromirkin/)
+- 📝 Regularmente escribo artículos en [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CiroMirkin) 
 
 - 📫 Contacto: **ciromirkin@gmail.com**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CiroMirkin)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CiroMirkin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CiroMirkin)  
 
 <h3 align="left">💻 Stack tecnológico:</h3>
 
