@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están en [https://ciromirkin.github.io/Portfolio/](https://ciromirkin.github.io/Portfolio/)
 
-- 📝 Regularmente escribo artículos en [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CiroMirkin) 
+- 📝 Regularmente escribo artículos en [Medium](https://medium.com/@CiroMirkin).
 
 - 📫 Contacto: **ciromirkin@gmail.com**
 
