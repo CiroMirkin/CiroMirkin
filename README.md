@@ -3,7 +3,7 @@
 
 - 🔭 Mi último proyecto es [Kan-Ban](https://github.com/CiroMirkin/Kan-Ban).
 
-- 👨‍💻 Todos mis proyectos están en [mi portafolio]https://ciromirkin.github.io/Portfolio/)
+- 👨‍💻 Todos mis proyectos están en [mi portafolio](https://ciromirkin.github.io/Portfolio/)
 
 - 📝 Regularmente escribo artículos en [Medium](https://medium.com/@CiroMirkin).
 
