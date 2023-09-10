@@ -6,9 +6,9 @@
 - 👨‍💻 Proyectos en [mi portafolio](https://ciromirkin.github.io/Portfolio/).
 
 - 📝 Escribo regularmente artículos en [Medium](https://medium.com/@CiroMirkin).
-
+<!--
 - 📫 Contacto: **ciromirkin@gmail.com**
-
+-->
 <br/>
 
 <p align="left">
