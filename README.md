@@ -1,5 +1,6 @@
-<h1 aling="left">Soy Ciro 👋</h1>
-<h3 align="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
+# Soy Ciro 👋
+---
+## Programador web, enfocado en JavaScript y TypeScript.</h3>
 
 - 🔭 Mi último proyecto es [Kan-Ban](https://github.com/CiroMirkin/Kan-Ban).
 
