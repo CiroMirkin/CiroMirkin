@@ -1,6 +1,6 @@
 # Soy Ciro 👋
----
-## Programador web, enfocado en JavaScript y TypeScript.</h3>
+
+<h3 aling="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
 
 - 🔭 Mi último proyecto es [Kan-Ban](https://github.com/CiroMirkin/Kan-Ban).
 
