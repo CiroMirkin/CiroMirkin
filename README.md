@@ -2,7 +2,7 @@
 
 <h3 aling="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
 
-- 🔭 Mi último proyecto es una aplicación web para jugar un [Memotest]([https://github.com/CiroMirkin/Kan-Ban](https://github.com/CiroMirkin/memotest_TS)).
+- 🔭 Mi último proyecto es una aplicación web para jugar un [Memotest](https://github.com/CiroMirkin/memotest_TS).
 
 - 👨‍💻 Proyectos en [mi portafolio](https://ciromirkin.github.io/Portfolio/).
 
