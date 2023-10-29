@@ -2,11 +2,11 @@
 
 <h3 aling="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
 
-- 🔭 Mi último proyecto es [Kan-Ban](https://github.com/CiroMirkin/Kan-Ban).
+- 🔭 Mi último proyecto es una aplicación web para jugar un [Memotest]([https://github.com/CiroMirkin/Kan-Ban](https://github.com/CiroMirkin/memotest_TS)).
 
 - 👨‍💻 Proyectos en [mi portafolio](https://ciromirkin.github.io/Portfolio/).
 
-- 📝 Escribo regularmente artículos en [Medium](https://medium.com/@CiroMirkin).
+- 📝 Escribo regularmente artículos en [Medium](https://medium.com/@CiroMirkin) y [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
 <!--
 - 📫 Contacto: **ciromirkin@gmail.com**
 -->
