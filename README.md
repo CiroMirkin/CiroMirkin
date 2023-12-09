@@ -1,4 +1,4 @@
-# I'Am Ciro 👋
+# I'am Ciro 👋
 
 <h3 aling="left">Web dev, focus on JavaScript and TypeScript.</h3>
 
