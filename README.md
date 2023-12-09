@@ -1,12 +1,12 @@
-# Soy Ciro 👋
+# I'Am Ciro 👋
 
-<h3 aling="left">Programador web, enfocado en JavaScript y TypeScript.</h3>
+<h3 aling="left">Web dev, focus on JavaScript and TypeScript.</h3>
 
-- 🔭 Mi último proyecto es una aplicación web para jugar un [Memotest](https://github.com/CiroMirkin/memotest_TS).
+- 🔭 My last project is a web game: [Memotest](https://github.com/CiroMirkin/memotest_TS).
 
-- 👨‍💻 Proyectos en [mi portafolio](https://ciromirkin.github.io/Portfolio/).
+- 👨‍💻 Projects in [my portfolio](https://ciromirkin.github.io/Portfolio/).
 
-- 📝 Escribo regularmente artículos en [Medium](https://medium.com/@CiroMirkin) y [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
+- 📝 I regularly write articles in [Medium](https://medium.com/@CiroMirkin) and [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
 <!--
 - 📫 Contacto: **ciromirkin@gmail.com**
 -->
@@ -19,7 +19,7 @@
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  
 -->
-<h3 align="left">💻 Stack tecnológico:</h3>
+<h3 align="left">💻 Tech stack:</h3>
 
 
 
