@@ -2,7 +2,7 @@
 
 <h3 aling="left">Web dev, focus on JavaScript and TypeScript.</h3>
 
-- 🔭 My last project is a web game: [Memotest](https://github.com/CiroMirkin/memotest_TS).
+- 🔭 My last project is a web to manage tasks: [Boar](https://github.com/CiroMirkin/Boar).
 
 - 👨‍💻 Projects in [my portfolio](https://ciromirkin.github.io/Portfolio/).
 
