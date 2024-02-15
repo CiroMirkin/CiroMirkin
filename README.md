@@ -6,7 +6,7 @@
 
 - 👨‍💻 Projects in [my portfolio](https://ciromirkin.github.io/Portfolio/).
 
-- 📫 Monthly spanish notes about programming theory in [this repository](https://github.com/CiroMirkin/Apuntes).
+- 📫 Every month I push my programming study notes [here](https://github.com/CiroMirkin/Apuntes).
 
 - 📝 I regularly write articles in [Medium](https://medium.com/@CiroMirkin) and [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
 <!--
