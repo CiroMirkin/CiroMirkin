@@ -1,6 +1,6 @@
 # I'am Ciro 👋
 
-<h3 aling="left">Web dev, focus on JavaScript and TypeScript.</h3>
+<h3 aling="left">Web dev, focus on web applications.</h3>
 
 - 🔭 My last project is a web to manage tasks: [Boar](https://github.com/CiroMirkin/Boar).
 
