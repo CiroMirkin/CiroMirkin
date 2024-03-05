@@ -6,12 +6,12 @@
 
 - 👨‍💻 Projects in [my portfolio](https://ciromirkin.github.io/Portfolio/).
 
-- 📫 Every month I push my programming study notes [here](https://github.com/CiroMirkin/Apuntes).
+<h4 align="left">Contenido en español (Spanish content)</h4>
 
-- 📝 I regularly write articles in [Medium](https://medium.com/@CiroMirkin) and [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
-<!--
-- 📫 Contacto: **ciromirkin@gmail.com**
--->
+- 📫 Todos los meses publico un apunte sobre programación [aquí](https://github.com/CiroMirkin/Apuntes).
+  
+- 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin) o [LinkedIn](https://www.linkedin.com/in/ciromirkin/recent-activity/articles/).
+
 <br/>
 
 <p align="left">
@@ -21,6 +21,8 @@
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  
 -->
+
+
 <h3 align="left">💻 Tech stack:</h3>
 
 
