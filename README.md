@@ -1,4 +1,4 @@
-# I'am Ciro 👋
+# I am Ciro 👋
 
 <h3 aling="left">I'm Focus on web applications.</h3>
 
