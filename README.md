@@ -12,7 +12,7 @@
   
 - 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin).
 
-[![Ciro Mirkin Medium](https://github-readme-medium.vercel.app/?username=ciromirkin&limit=2)](https://medium.com/@ciromirkin)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
   
 - :tv: Lista de videos de programación que veo en [YouTube](https://youtube.com/@ciro-bw9ym?si=XyU6UtKb-rrC1aOS).
 
