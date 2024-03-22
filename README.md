@@ -1,4 +1,4 @@
-# I am Ciro 👋
+# Hi everyone 👋
 
 <h3 aling="left">I'm Focus on web applications.</h3>
 
@@ -11,6 +11,8 @@
 - 📫 Todos los meses publico un apunte sobre programación [aquí](https://github.com/CiroMirkin/Apuntes).
   
 - 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin).
+
+[![Ciro Mirkin Medium](https://github-readme-medium.vercel.app/?username=ciromirkin&limit=2)](https://medium.com/@ciromirkin)
   
 - :tv: Lista de videos de programación que veo en [YouTube](https://youtube.com/@ciro-bw9ym?si=XyU6UtKb-rrC1aOS).
 
