@@ -4,7 +4,7 @@
 
 - 🔭 My last project is a web to manage tasks: [Boar](https://github.com/CiroMirkin/Boar).
 
-- 💼 Projects in [my portfolio](https://ciromirkin.github.io/Portfolio/).
+- 💼 [Portfolio](https://ciromirkin.github.io/Portfolio/).
 
 <h4 align="left">Contenido en español (Spanish content)</h4>
 
