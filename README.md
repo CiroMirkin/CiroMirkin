@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-<h3 aling="left">I'm Focus on web applications.</h3>
+<h3 aling="left">I'm Focus on web applications. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 
 - 🔭 My last project is a web to manage tasks: [Boar](https://github.com/CiroMirkin/Boar).
 
@@ -8,7 +8,9 @@
 
 <h4 align="left">Contenido en español (Spanish content)</h4>
 
-- 📫 Todos los meses publico un apunte sobre programación [aquí](https://github.com/CiroMirkin/Apuntes).
+- 📫 Todos los meses publico un apunte sobre programación aquí en GitHub.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CiroMirkin&repo=Apuntes)](https://github.com/CiroMirkin/Apuntes)
   
 - 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin).
 
