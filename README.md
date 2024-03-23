@@ -8,15 +8,9 @@
 
 <h4 align="left">Contenido en español (Spanish content)</h4>
 
-- 📫 Todos los meses publico un apunte sobre programación aquí en GitHub.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CiroMirkin&repo=Apuntes)](https://github.com/CiroMirkin/Apuntes)
+- 📫 Todos los meses publico un apunte sobre programación [aquí en GitHub](https://github.com/CiroMirkin/Apuntes).
   
 - 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin).
-
-Último articulo:
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=ciromirkin)](https://medium.com/@ciromirkin)
   
 - :tv: Lista de videos de programación que veo en [YouTube](https://youtube.com/@ciro-bw9ym?si=XyU6UtKb-rrC1aOS).
 
