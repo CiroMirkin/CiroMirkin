@@ -1,6 +1,6 @@
-# Hi everyone 👋
+# Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<h3 aling="left">I'm Focus on web applications. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<h3 aling="left">I'm Focus on web applications.</h3>
 
 - 🔭 My last project is a web to manage tasks: [Boar](https://github.com/CiroMirkin/Boar).
 
