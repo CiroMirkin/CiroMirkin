@@ -12,7 +12,7 @@
   
 - 📝 Regularmente escribo en [Medium](https://medium.com/@CiroMirkin).
   
-- :tv: Lista de videos de programación que veo en [YouTube](https://youtube.com/@ciro-bw9ym?si=XyU6UtKb-rrC1aOS).
+- :tv: Tengo una lista de videos sobre programación/IT en [YouTube](https://youtube.com/@ciro-bw9ym?si=XyU6UtKb-rrC1aOS).
 
 <br/>
 
